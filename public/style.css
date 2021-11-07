@@ -1,7 +1,27 @@
 body{
-  padding-top:80px;
+  padding-top:30px;
   word-wrap:break-word;
 }
 img{
   height: 200px;
+}
+.hide {
+  visibility: none;
+}
+li {
+  list-style-type: none;
+}
+.post {
+  border: 2px solid black;
+  padding: 4% 0;
+  text-align: center;
+}
+ul {
+  padding-left: 0;
+}
+.logo {
+  height: 50px;
+  position:fixed;
+    top: 5%;
+    left:5%;
 }
